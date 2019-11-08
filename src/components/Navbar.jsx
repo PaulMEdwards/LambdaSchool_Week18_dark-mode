@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { useDark } from "../hooks/useDark";
 
 const Navbar = () => {
